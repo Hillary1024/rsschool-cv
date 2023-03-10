@@ -7,7 +7,7 @@
 - location: Minsk
 - Phone: +375 (44) 79-35-194
 - Email: ilariyabernard@gmail.com
-- GitHub: [Hillary1024](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md) 
+- GitHub: [Hillary1024](https://github.com/Hillary1024) 
 
 ## About me
 
