@@ -1,0 +1,17 @@
+h3 {
+    border: 5px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+pre {
+    border: 5px solid;
+    width: 525px;
+    height: 350px;
+    font-size: 18px;
+    background: linear-gradient(skyblue, rgb(107, 247, 107));
+    color: rgb(121, 1, 115)
+}
